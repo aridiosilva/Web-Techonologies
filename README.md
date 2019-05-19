@@ -58,7 +58,12 @@ Link to the Web API and DOM Standards
 ## Specifications
 Link to the Web Technologies specifications for 2D and 3D Graphics 
 
-- [*Graphics 2D and 3D (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+- [*Graphics 2D and 3D (MDN Web Docs)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+- [*Canvas - APIs to draw 2D graphics using JavaScript*](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
+- [*SVG - Scalable Vector Graphics*](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [*WebGL (3D Graphics) - standard OpenGL ES in web content*](https://developer.mozilla.org/en-US/docs/Web/WebGL)
+- [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+- [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
 
 
 
