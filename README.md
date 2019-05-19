@@ -34,6 +34,9 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Quirks Mode Living Standard*](https://quirks.spec.whatwg.org/)
 - [*Storage Living Standard*](https://storage.spec.whatwg.org/)
 - [*Localizations and character encodings*](https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings)
+
+## Guides 
+
 - [*Events Developer Guide (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Events)
 - [*Guide: Html Learning Area (MDN)*](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [*Guide: User input and controls*](https://developer.mozilla.org/en-US/docs/Web/Guide/User_input_methods)
