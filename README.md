@@ -89,6 +89,7 @@ Tutorials, References and tools for the Application-Layer Protocol for transmitt
 ## Especifications
 Links for utorials, References and tools realted to the HTTP
 
+- [*HTTP Resources and Specifications*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications)
 - [*Overview of HTTP*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [*HTTP Cache*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 - [*HTTP Cookies*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
@@ -102,4 +103,15 @@ Links for utorials, References and tools realted to the HTTP
 - [*HTTP Status Response Codes*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Response_codes)
 - [*CSP directives*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 - [*How Browsers Work*](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [*HTTP range requests*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests)
+- [*Redirections in HTTP*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+- [*HTTP Content Negotiation*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation)
+- [*HTTP Authentication*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
+
+
+
+
+
+
+
 
