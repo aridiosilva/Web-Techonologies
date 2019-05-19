@@ -116,7 +116,7 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 - [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 - [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
 - [*Audio and Video Manipulation (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_manipulation)
-- [*Audio and Video Delivery (MDN)*}(https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery)
+- [*Audio and Video Delivery (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery)
 - [*Graphics on the web (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
 
 ## Web Fonts
@@ -129,9 +129,9 @@ Related to web media technologies, media capture and streams API, HTML audio and
 ## Specifications
 Link to tutorials, specifications about these web techonologies
 
-- [*Web media technologies*](https://developer.mozilla.org/en-US/docs/Web/Media)
-- [*Media capture and streams API*](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
-- [*Using HTML audio and video*](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [*Web Media Technologies*](https://developer.mozilla.org/en-US/docs/Web/Media)
+- [*Media Capture and Streams API*](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
+- [*Using HTML Audio and Video*](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 - [*WebRTC*](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 
 # XML
