@@ -280,6 +280,22 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 
 ## Web Fonts
 
+- [*Web Fonts Overview*](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+- [*CSS Text and Font Fundamentals*](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- [*Google Fonts*](https://developers.google.com/fonts/)
+- [*Google Fonts - Guide*](https://developers.google.com/fonts/docs/getting_started)
+- [*Google Fonts - Developer API*](https://developers.google.com/fonts/docs/developer_api)
+- [*Google Fonts - Technical Considerations*](https://developers.google.com/fonts/docs/technical_considerations)
+- [*Google Fonts - Web Font Loader*](https://developers.google.com/fonts/docs/webfont_loader)
+- [*Design Google - Choosing Web Fonts: A Beginner’s Guide*](https://design.google/library/choosing-web-fonts-beginners-guide/)
+- [*Type & Typography - Explore typographic culture and discover fonts for your next project with this collection of case studies, technical updates, and articles curated by the Google Fonts team*](https://design.google/library/google-fonts/)
+
+
+- [*20 Best Google Web Fonts*](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
+- [*Choose a font - Google Web Designer Help*](https://support.google.com/webdesigner/answer/6163074?hl=en)
+- [*How to use Google Fonts in your next web design project*](https://medium.freecodecamp.org/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa)
+- [*WebFont Generator (Font Squirrel)*](https://www.fontsquirrel.com/tools/webfont-generator)
+- [*Web Safe Fonts*](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#Web_safe_fonts)
 - [*The Web Open Font Format (WOFF)*](https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF)
 
 # Audio, Video and Multimedia
