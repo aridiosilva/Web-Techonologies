@@ -41,7 +41,10 @@ The latest evolution of the Cascading Style Sheets language.
 Link to the Cascading Style Sheet Web Technology Living Standards 
 
 - [*Cascading Style Sheets Homepage W3C*](https://www.w3.org/Style/CSS/)
+- [*All CSS Specifications W3C*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [*Understanding the CSS Specifications*](https://www.w3.org/Style/CSS/read.en.html)
 - [*CSS3 - Introduction, Tutorials and Reference (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [*HTML & CSS*](https://www.w3.org/standards/webdesign/htmlcss)
 
 
 # Web APIs and DOM (Document Object Model)
@@ -64,6 +67,15 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 - [*WebGL (3D Graphics) - standard OpenGL ES in web content*](https://developer.mozilla.org/en-US/docs/Web/WebGL)
 - [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 - [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
+
+# XML
+Extended Markup Language Technology
+
+## Specifications
+Link to the Web Technology specification of Extended Markup Language Technology
+
+- [*XML Essentials W3C*](https://www.w3.org/standards/xml/core)
+
 
 # Hypertext Transfer Protocol (HTTP)
 Tutorials, References and tools for the Application-Layer Protocol for transmitting hypermedia documents, such as HTML.
