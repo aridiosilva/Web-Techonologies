@@ -1,4 +1,4 @@
-# HTML5, CSS3 and DOM
+# Web Techonologies
 
 # HTML5 Web Standard
 The actual Hypertext Markup Language Standard 
@@ -96,19 +96,4 @@ Links for utorials, References and tools realted to the HTTP
 - [*HTTP Status Response Codes*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Response_codes)
 - [*CSP directives*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 - [*How Browsers Work*](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
