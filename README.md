@@ -74,7 +74,7 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 - [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 - [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
 
-# Audtio, Video and Multimedia
+# Audio, Video and Multimedia
 Related to web media technologies, media capture and streams API, HTML audio and Video, WebRTC and other issues
 
 ## Specifications
