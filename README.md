@@ -156,7 +156,7 @@ Progressive web apps use modern web APIs along with traditional progressive enha
 - [*Using Service Workers*](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 - [*ServiceWorkerWare (Express-like microframework for easy Service Worker development)*](https://github.com/fxos-components/serviceworkerware)
 - [*The Service Worker Cookbook*](https://serviceworke.rs/)
-- [*Instant Loading Web Apps with An Application Shell Architecture *](https://developers.google.com/web/updates/2015/11/app-shell)
+- [*Instant Loading Web Apps with An Application Shell Architecture*](https://developers.google.com/web/updates/2015/11/app-shell)
 - [*Using the Push API*](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API)
 - [*Using the Notifications API*](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API)
 - [*The Building Blocks of Responsive Design*](https://developer.mozilla.org/en-US/docs/Web/Apps/Modern/Responsive/responsive_design_building_blocks)
@@ -170,9 +170,16 @@ Progressive web apps use modern web APIs along with traditional progressive enha
 ## Web Storage
 
 - [*Client-side storage (how and when to use web storage, IndexedDB, and service workers)*](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
-- [*Using IndexedDB *](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
-- [*Using the Web Storage API *](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+- [*Using IndexedDB*](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
+- [*Using the Web Storage API*](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 - [*localForage (JavaScript library for making client-side data storage really simple)*](https://localforage.github.io/localForage/)
+- [*Progressive Web Apps on Google Developers*](https://developers.google.com/web/progressive-web-apps)
+- [*Progressive Web Apps Check List*](https://developers.google.com/web/progressive-web-apps/checklist)
+- [*React PWA Guide Kit*](https://github.com/codebusking/react-pwa-guide-kit)
+- [*Tools for building progressive web apps with Angular*](https://github.com/angular/mobile-toolkit)
+- [*Hacker News readers as Progressive Web Apps*](https://hnpwa.com/)
+- [*Progressive Web Apps: Escaping Tabs Without Losing Our Soul*](https://medium.com/@slightlylate/progressive-apps-escaping-tabs-without-losing-our-soul-3b93a8561955#.6czgj0myh)
+- [*The Lighthouse Tool by Google*](https://developers.google.com/web/tools/lighthouse)
 
 ## WebAssembly
 WebAssembly is a new type of code that can be run in modern web browsers — it is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++ and Rust with a compilation target so that they can run on the web.
