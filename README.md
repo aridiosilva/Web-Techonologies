@@ -3,6 +3,7 @@ Contains links to all updated and actual living specifications of HTML Web Techn
 
 - [*HTML Standard FAQ*](https://github.com/whatwg/html/blob/master/FAQ.md)
 - [*What is the WHATWG?*](https://whatwg.org/faq)
+- [*HTML Conformance Checkers*](https://whatwg.org/validator/)
 
 ## Specifications
 Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
