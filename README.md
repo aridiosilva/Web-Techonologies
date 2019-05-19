@@ -36,7 +36,7 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Quirks Mode Living Standard*](https://quirks.spec.whatwg.org/)
 - [*Storage Living Standard*](https://storage.spec.whatwg.org/)
 - [*Localizations and character encodings*](https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings)
-- [*HTML Living Standard Specification - Table of Contents*](https://html.spec.whatwg.org/multipage/)
+- [*HTML Living Standard Specification - Full Table of Contents*](https://html.spec.whatwg.org/multipage/)
 
 ## HTML References
 
