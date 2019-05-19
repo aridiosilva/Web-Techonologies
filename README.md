@@ -1,11 +1,5 @@
 # HTML5 Web Standard
-Contains links to all updated and actual living specifications of HTML Web Technology
-
-- [*HTML Standard FAQ*](https://github.com/whatwg/html/blob/master/FAQ.md)
-- [*What is the WHATWG?*](https://whatwg.org/faq)
-- [*HTML Conformance Checkers*](https://whatwg.org/validator/)
-- [*HTML History Timeline*](https://www.sutori.com/story/html-history-timeline--wpXkELUoUTaKjiQxPFxy9vD4)
-- [*All normative references that appears in the HTML5 Specification*](https://html.spec.whatwg.org/multipage/references.html#references)
+The actual Hypertext Markup Language Standard 
 
 ## Specifications
 Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
@@ -26,3 +20,12 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Streams Living Standard*](https://streams.spec.whatwg.org/)
 - [*Quirks Mode Living Standard*](https://quirks.spec.whatwg.org/)
 - [*Storage Living Standard*](https://storage.spec.whatwg.org/)
+
+## Complementary
+Contains links to all updated and actual living specifications of HTML Web Technology
+
+- [*HTML Standard FAQ*](https://github.com/whatwg/html/blob/master/FAQ.md)
+- [*What is the WHATWG?*](https://whatwg.org/faq)
+- [*HTML Conformance Checkers*](https://whatwg.org/validator/)
+- [*HTML History Timeline*](https://www.sutori.com/story/html-history-timeline--wpXkELUoUTaKjiQxPFxy9vD4)
+- [*All normative references that appears in the HTML5 Specification*](https://html.spec.whatwg.org/multipage/references.html#references)
