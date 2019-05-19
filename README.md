@@ -41,5 +41,6 @@ The latest evolution of the Cascading Style Sheets language.
 Link to the Cascading Style Sheet Web Technology Living Standards 
 
 - [*Cascading Style Sheets Homepage W3C*](https://www.w3.org/Style/CSS/)
+- [*CSS3 - Modules and the Standardization Process & Module Status (MDN Web Docs0*](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 
