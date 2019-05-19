@@ -194,6 +194,20 @@ The web includes a wide array of APIs that can be used from JavaScript to build 
 # Graphics on the Web
 2D and 3D Graphics Specifications
 
+## Specifications
+Link to the Web Technologies specifications for 2D and 3D Graphics 
+
+- [*Graphics 2D and 3D (MDN Web Docs)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+- [*Canvas - APIs to draw 2D graphics using JavaScript*](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
+- [*SVG - Scalable Vector Graphics*](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [*WebGL (3D Graphics) - standard OpenGL ES in web content*](https://developer.mozilla.org/en-US/docs/Web/WebGL)
+- [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+- [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
+- [*Audio and Video Manipulation (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_manipulation)
+- [*Audio and Video Delivery (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery)
+- [*Graphics on the web (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+
+
 ## Canvas
 The Canvas API provides a means for drawing graphics via JavaScript and the HTML <canvas> element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing. The Canvas API largely focuses on 2D graphics. The WebGL API, which also uses the <canvas> element, draws hardware-accelerated 2D and 3D graphics.
 
@@ -237,8 +251,6 @@ Scalable Vector Graphics (SVG) is an XML-based markup language for describing tw
 - [*Examples: SVG as an image*](https://developer.mozilla.org/en-US/docs/SVG/SVG_as_an_Image)
 - [*Examples: SVG animation with SMIL*](https://developer.mozilla.org/en-US/docs/SVG/SVG_animation_with_SMIL)
 - [*Examples: SVG art gallery*](http://plurib.us/1shot/2007/svg_gallery/)
-
-- [*Animation and Interaction - *]()
 - [*Animation and Interaction - Some real eye-candy SVG at svg-wow.org*](http://svg-wow.org/)
 - [*Animation and Interaction - Firefox extension (Grafox) to add a subset of SMIL animation support*](http://schepers.cc/grafox/)
 - [*Animation and Interaction - nteractive photos manipulation*](http://demo.huihoo.com/amplesdk/examples/applications/svgalbum/index.html)
@@ -250,33 +262,59 @@ Scalable Vector Graphics (SVG) is an XML-based markup language for describing tw
 ## WebGL: 2D and 3D graphics for the web
 WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins. WebGL does so by introducing an API that closely conforms to OpenGL ES 2.0 that can be used in HTML5 <canvas> elements. Support for WebGL is present in Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, and Microsoft Edge build 10240+; however, the user's device must also have hardware that supports these features. The <canvas> element is also used by the Canvas API to do 2D graphics on web pages.
 
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
-- [**]()
+- [*WebGL 1.0 Specification*](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+- [*WebGL 2.0 Specification*](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+- [*OpenGL ES 2.0 Specification*](https://www.khronos.org/opengles/sdk/docs/man/xhtml/)
+- [*OpenGL ES 3.0 Specification*](https://www.khronos.org/opengles/sdk/docs/man3/html/)
+- [*WebGl Reference*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API#Reference)
 - [**]()
 
+## WebGL: Tutorials
+Guides to help you learn WebGL concepts and tutorials that offer step-by-step lessons and examples.
 
-## Specifications
-Link to the Web Technologies specifications for 2D and 3D Graphics 
+- [*Getting started with WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
+- [*An introduction to WebGL*](https://dev.opera.com/articles/introduction-to-webgl-part-1/)
+- [*WebGL Fundamentals*](http://webglfundamentals.org/)
+- [*An intro to modern OpenGL*](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html)
+- [*WebGL tutorial*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
+- [*A basic 2D WebGL animation example*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Basic_2D_animation_example)
+- [*WebGL by example*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/By_example)
+- [*WebGL model view projection*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_model_view_projection)
+- [*Matrix math for the web*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web)
+- [*WebGL Examples GitHub Repository*](https://github.com/mdn/webgl-examples/tree/gh-pages/tutorial)
+- [*Tutorial: Adding 2D content to a WebGL context*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context)
+- [*Tutorial: Using shaders to apply color in WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_shaders_to_apply_color_in_WebGL)
+- [*Tutorial: Animating objects with WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL)
+- [*Tutorial: Creating 3D objects using WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_shaders_to_apply_color_in_WebGL)
+- [*Tutorial: Using textures in WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)
+- [*Tutorial: Lighting in WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Lighting_in_WebGL)
+- [*Tutorial: Animating textures in WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Animating_textures_in_WebGL)
 
-- [*Graphics 2D and 3D (MDN Web Docs)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
-- [*Canvas - APIs to draw 2D graphics using JavaScript*](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
-- [*SVG - Scalable Vector Graphics*](https://developer.mozilla.org/en-US/docs/Web/SVG)
-- [*WebGL (3D Graphics) - standard OpenGL ES in web content*](https://developer.mozilla.org/en-US/docs/Web/WebGL)
-- [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
-- [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
-- [*Audio and Video Manipulation (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_manipulation)
-- [*Audio and Video Delivery (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery)
-- [*Graphics on the web (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+
+## WebGL: Resources
+
+- [*Raw WebGL: An introduction to WebGL*](https://www.youtube.com/embed/H4c8t6myAWU/?feature=player_detailpage)
+- [*Khronos WebGL site*](http://www.khronos.org/webgl/)
+- [*WebGL Fundamental*](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
+- [*WebGL playground*](http://webglplayground.net/)
+- [*WebGL Academy*](http://www.webglacademy.com/)
+- [*WebGL Stats*](http://webglstats.com/)
+
+## WebGL: Guides
+
+- [*Guide: Data in WebGL*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Data)
+- [*Guide: WebGL best practices*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices)
+- [*Guide: Using extensions*](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Using_Extensions)
+
+## WebGL: Libraries
+
+- [*glMatrix - A JavaScript matrix and vector library for high-performance WebGL apps*](https://github.com/toji/gl-matrix)
+- [*PhiloGL - A WebGL framework for data visualization, creative coding, and game development*](http://senchalabs.github.com/philogl/)
+- [*Pixi.js - A fast, open-source 2D WebGL renderer*](http://www.pixijs.com/)
+- [*PlayCanvas - An open-source game engine.*](https://playcanvas.com/)
+- [*Sylvester - An open-source library for manipulating vectors and matrices. Not optimized for WebGL but extremely robust.*](http://sylvester.jcoglan.com/)
+- [*three.js - An open-source, fully featured 3D WebGL library.*](https://threejs.org/)
+- [*Phaser - A fast, free and fun open source framework for Canvas and WebGL powered browser games*](https://phaser.io/)
 
 ## Web Fonts
 
@@ -289,8 +327,6 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 - [*Google Fonts - Web Font Loader*](https://developers.google.com/fonts/docs/webfont_loader)
 - [*Design Google - Choosing Web Fonts: A Beginner’s Guide*](https://design.google/library/choosing-web-fonts-beginners-guide/)
 - [*Type & Typography - Explore typographic culture and discover fonts for your next project with this collection of case studies, technical updates, and articles curated by the Google Fonts team*](https://design.google/library/google-fonts/)
-
-
 - [*20 Best Google Web Fonts*](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
 - [*Choose a font - Google Web Designer Help*](https://support.google.com/webdesigner/answer/6163074?hl=en)
 - [*How to use Google Fonts in your next web design project*](https://medium.freecodecamp.org/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa)
