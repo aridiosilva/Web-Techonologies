@@ -1,7 +1,11 @@
 # Web Techonologies
 
+- [*Glossary*] (https://developer.mozilla.org/en-US/docs/Glossary)
+- [*Learning Web Development*](https://developer.mozilla.org/en-US/docs/Learn)
+- [*Web Developer Reference*](https://developer.mozilla.org/en-US/docs/Web/Reference)
+
 # HTML5 Web Standard
-The actual Hypertext Markup Language Standard 
+The actual Hypertext Markup Language Standard - HTML is the core language of nearly all web content. 
 
 ## Specifications
 Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
@@ -23,6 +27,12 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Streams Living Standard*](https://streams.spec.whatwg.org/)
 - [*Quirks Mode Living Standard*](https://quirks.spec.whatwg.org/)
 - [*Storage Living Standard*](https://storage.spec.whatwg.org/)
+- [*Localizations and character encodings*](https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings)
+- [*Events Developer Guide (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Events)
+- [*Html Learning Area (MDN)*](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [User input and controls*](https://developer.mozilla.org/en-US/docs/Web/Guide/User_input_methods)
+- [*Using FormData objects*](https://developer.mozilla.org/en-US/docs/Web/Guide/Using_FormData_Objects)
+- [*Unicode Bidirectional Text Algorithm (BiDi)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Unicode_Bidrectional_Text_Algorithm)
 
 ## Complementary
 Contains links to all updated and actual living specifications of HTML Web Technology
@@ -43,14 +53,17 @@ Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 fun
 # CSS3 Web Standard
 The latest evolution of the Cascading Style Sheets language.
 
+ - [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+ 
 ## Specifications
-Link to the Cascading Style Sheet Web Technology Living Standards 
+Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a stylesheet language used to define the presentation of a document written in HTML.
 
 - [*Cascading Style Sheets Homepage W3C*](https://www.w3.org/Style/CSS/)
 - [*All CSS Specifications W3C*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [*Understanding the CSS Specifications*](https://www.w3.org/Style/CSS/read.en.html)
 - [*CSS3 - Introduction, Tutorials and Reference (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [*HTML & CSS*](https://www.w3.org/standards/webdesign/htmlcss)
+- [*CSS Learning Area (MDN)*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 
 # Web APIs and DOM (Document Object Model)
@@ -73,6 +86,13 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 - [*WebGL (3D Graphics) - standard OpenGL ES in web content*](https://developer.mozilla.org/en-US/docs/Web/WebGL)
 - [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 - [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
+- [*Audio and Video Manipulation (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_manipulation)
+- [*Audio and Video Delivery (MDN)*}(https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery)
+- [*Graphics on the web (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+
+## Web Fonts
+
+- [*The Web Open Font Format (WOFF)*](https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF)
 
 # Audio, Video and Multimedia
 Related to web media technologies, media capture and streams API, HTML audio and Video, WebRTC and other issues
@@ -96,6 +116,7 @@ Link to the Web Technology specification of Extended Markup Language Technology
 - [*EXSLT (Extra functions which provide additional features to XSLT)*](https://developer.mozilla.org/en-US/docs/Web/EXSLT)
 - [*Xpath*](https://developer.mozilla.org/en-US/docs/Web/XPath)
 - [*MathML (Mathematical Markup Language)*](https://developer.mozilla.org/en-US/docs/Web/MathML)
+- [*Parsing and Serializing XML (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML)
 
 
 # Hypertext Transfer Protocol (HTTP)
@@ -140,7 +161,15 @@ Helpful tools and resources for understanding and debugging HTTP
 - [*RedBot*](https://redbot.org/)
 
 # Other Topics 
-WebAssembly, Accessibility, Web Performance, Security, Progressive Web Apps.
+WebAssembly, Accessibility, Web Performance, Security, Progressive Web Apps, Web APIs, Web Storage.
+
+## Web APIs
+The web includes a wide array of APIs that can be used from JavaScript to build increasingly more powerful and capable applications, running either on the web, locally, or through technology such as Node.js, on a server.
+
+- [*Web API interface reference*](https://developer.mozilla.org/en-US/docs/Web/API)
+- [*Web API event reference*](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [*Guide to web APIs*](https://developer.mozilla.org/en-US/docs/Web/Guide/API)
+- [*Document Object Model (DOM)*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ## Progressive Web Applications (PWA)
 Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps.
@@ -166,6 +195,11 @@ Progressive web apps use modern web APIs along with traditional progressive enha
 - [*UpUp (script that makes sure your site is always there for your users)*](https://www.talater.com/upup/)
 - [*sw-precache ( a node module to generate service worker code that will precache specific resources)*](https://github.com/GoogleChrome/sw-precache)
 - [*oghliner (tool for deploying Offline Web Apps to GitHub Pages)*](https://github.com/mozilla/oghliner)
+
+## Responsive Web Design
+
+- [*Optimization and performance*]()
+- [*Mobile web development*]()
 
 ## Web Storage
 
