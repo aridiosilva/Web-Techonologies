@@ -2,7 +2,7 @@
 Contains links to all updated and actual living specifications of HTML Web Technology
 
 ## Specifications
-Link to the Web Technology Living Standards maintained at the WHATWG 
+Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
 
 - [*HTML - Features Specification - Developer's Edition*](https://html.spec.whatwg.org/dev/introduction.html#introduction)
 - [*HTML - Full Specification*](https://html.spec.whatwg.org/multipage/)
