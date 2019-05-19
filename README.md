@@ -19,3 +19,4 @@ Link to the Web Technology Living Standards maintained at the WHATWG
 - [*Notifications API Living Standard*](https://notifications.spec.whatwg.org/)
 - [*Streams Living Standard*](https://streams.spec.whatwg.org/)
 - [*Quirks Mode Living Standard*](https://quirks.spec.whatwg.org/)
+- [*Storage Living Standard*](https://storage.spec.whatwg.org/)
