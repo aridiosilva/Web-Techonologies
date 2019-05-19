@@ -58,11 +58,32 @@ The latest evolution of the Cascading Style Sheets language.
 
  - [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
  - [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+ - [*Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements)
+ - [*Managing screen orientation*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Managing_screen_orientation)
+ - [*Using dynamic styling information*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+ - [*CSS Interfaces*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+ - [*CSS Events*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+
+ - [*Tutorial - Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Determining_the_dimensions_of_elements)
+ - [*Tutorial - Managing screen orientation*](https://developer.mozilla.org/en-US/docs/WebAPI/Managing_screen_orientation)
  
 ## Specifications
 Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a stylesheet language used to define the presentation of a document written in HTML.
 
 - [*Cascading Style Sheets Homepage W3C*](https://www.w3.org/Style/CSS/)
+- [*CSS Animations Specification*](https://drafts.csswg.org/css-animations/)
+- [*CSS Transitions Specification*](https://drafts.csswg.org/css-transitions/)
+- [*CSS Fonts Module Level 3 Specification*](https://drafts.csswg.org/css-fonts-3/)
+- [*Screen Orientation API Specification*](https://w3c.github.io/screen-orientation/)
+- [*CSS Object Model (CSSOM) Specification*](https://drafts.csswg.org/cssom/)
+- [*SS Object Model (CSSOM) View Module Specification*](https://drafts.csswg.org/cssom-view/)
+- [*CSS Painting API Level 1 Specification*](https://drafts.css-houdini.org/css-paint-api-1/)
+- [*CSS Typed OM Level 1 Specification*](https://drafts.css-houdini.org/css-typed-om-1/)
+- [*CSS Custom Properties for Cascading Variables Module Level 1 Specification*](https://drafts.csswg.org/css-variables/)
+- [*CSS Conditional Rules Module Level 3 Specification*](https://drafts.csswg.org/css-conditional-3/)
+- [*CSS Device Adaptation Specification*](https://drafts.csswg.org/css-device-adapt/)
+- [*CSS Counter Styles Level 3 Specification*](https://drafts.csswg.org/css-counter-styles-3/)
+- [*Document Object Model (DOM) Level 2 Style Specification - Initial Definition (OBSOLETE)*]https://www.w3.org/TR/DOM-Level-2-Style/()
 - [*All CSS Specifications W3C*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [*Understanding the CSS Specifications*](https://www.w3.org/Style/CSS/read.en.html)
 - [*CSS3 - Introduction, Tutorials and Reference (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/CSS)
