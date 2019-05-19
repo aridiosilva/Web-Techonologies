@@ -41,6 +41,15 @@ The latest evolution of the Cascading Style Sheets language.
 Link to the Cascading Style Sheet Web Technology Living Standards 
 
 - [*Cascading Style Sheets Homepage W3C*](https://www.w3.org/Style/CSS/)
-- [*CSS3 - Introduction, Tutorials and Reference (MDN Web Docs0*](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [*CSS3 - Introduction, Tutorials and Reference (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+# Web APIs and DOM (Document Object Model)
+The latest evolution of the Document Object Model and Web APIs
+
+## Specifications
+Link to the Web API and DOM Standards 
+
+- [*Web API Specifications (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/API)
 
 
