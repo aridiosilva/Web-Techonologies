@@ -65,6 +65,37 @@ Link to the Web Technologies specifications for 2D and 3D Graphics
 - [*Using HTML5 audio and video*](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 - [*WebRTC - Real-Time Communications*](https://developer.mozilla.org/en-US/docs/WebRTC)
 
+# Hypertext Transfer Protocol (HTTP)
+Tutorials, References and tools for the Application-Layer Protocol for transmitting hypermedia documents, such as HTML.
+
+## Especifications
+Links for utorials, References and tools realted to the HTTP
+
+- [*Overview of HTTP*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [*HTTP Cache*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+- [*HTTP Cookies*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+- [*Cross-Origin Resource Sharing (CORS)*](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [*Evolution of HTTP*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+- [*HTTP Messages*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+- [*A typical HTTP session*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+- [*Connection management in HTTP/1.x*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
+- [*HTTP Headers*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+- [*HTTP Request Methods*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [*HTTP Status Response Codes*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Response_codes)
+- [*CSP directives*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
+- [*How Browsers Work*](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
