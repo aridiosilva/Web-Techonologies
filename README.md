@@ -423,7 +423,7 @@ Most major websites use some kind of server-side technology to dynamically displ
 
 - [*Server-side website programming first steps*](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps)
 - [*Django Web Framework (Python)*](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-- [*Express Web Framework (Node.js/JavaScript)*](Express Web Framework (Node.js/JavaScript))
+- [*Express Web Framework (Node.js/JavaScript)*](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 - [*Node server without framework*](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
 
 # Tools and Testing
@@ -433,7 +433,7 @@ The web industry is an exciting place to work, but it is not without its complic
 
 - [*Cross browser testing*](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
 
-# Accessibility — Make the web usable by everyone
+# Accessibility — Make the Web usable by everyone
 Learning some HTML, CSS, and JavaScript is useful if you want to become a web developer, but your knowledge needs to go further than just using the technologies — you need to use them responsibly so that you maximize the audience for your websites and don't lock anyone out of using them. To achieve this, you need to adhere to general best practices (which are demonstrated throughout the HTML, CSS, and JavaScript topics), do cross browser testing, and consider accessibility from the start. 
 
 - [*What is accessibility?*](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
