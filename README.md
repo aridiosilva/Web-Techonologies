@@ -1,4 +1,4 @@
-# HTML5 and CSS3
+# HTML5, CSS3 and DOM
 
 # HTML5 Web Standard
 The actual Hypertext Markup Language Standard 
