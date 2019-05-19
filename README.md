@@ -148,6 +148,12 @@ Related to web media technologies, media capture and streams API, HTML audio and
 ## Specifications
 Link to tutorials, specifications about these web techonologies
 
+- [*Audio and video on the web*](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#Audio_and_video_on_the_web)
+- [*Displaying video text tracks*](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#Displaying_video_text_tracks)
+- [*Adding Captions and Subtitles to HTML5 video*](https://developer.mozilla.org/en-US/Apps/Build/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
+- [*Audio and Video Delivery*](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Audio_and_video_delivery)
+- [*Audio and Video manipulation*](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Audio_and_video_manipulation)
+- [*Automated Options to Translate Multimedia*](http://www.inwhatlanguage.com/blog/translate-video-audio/)
 - [*Web Media Technologies*](https://developer.mozilla.org/en-US/docs/Web/Media)
 - [*Media Capture and Streams API*](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
 - [*Using HTML Audio and Video*](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
