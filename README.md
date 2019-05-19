@@ -52,20 +52,18 @@ Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 fun
 
 - [*Modernizr JavaScript Library*](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 
-
 # CSS3 Web Standard
 The latest evolution of the Cascading Style Sheets language.
 
- - [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
- - [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
- - [*Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements)
- - [*Managing screen orientation*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Managing_screen_orientation)
- - [*Using dynamic styling information*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
- - [*CSS Interfaces*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
- - [*CSS Events*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
-
- - [*Tutorial - Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Determining_the_dimensions_of_elements)
- - [*Tutorial - Managing screen orientation*](https://developer.mozilla.org/en-US/docs/WebAPI/Managing_screen_orientation)
+- [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+- [*Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements)
+- [*Managing screen orientation*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Managing_screen_orientation)
+- [*Using dynamic styling information*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+- [*CSS Interfaces*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+- [*CSS Events*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+- [*Tutorial - Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Determining_the_dimensions_of_elements)
+- [*Tutorial - Managing screen orientation*](https://developer.mozilla.org/en-US/docs/WebAPI/Managing_screen_orientation)
  
 ## Specifications
 Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a stylesheet language used to define the presentation of a document written in HTML.
