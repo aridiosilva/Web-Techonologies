@@ -14,7 +14,7 @@ The open nature of the World Wide Web presents incredible opportunities to creat
 # HTML5 Web Standard
 The actual Hypertext Markup Language Standard - HTML is the core language of nearly all web content. HyperText Markup Language is used to define and describe semantically the content (markup) of a web page in a well-structured format. HTML provides a means to create structured documents made up of blocks called HTML elements that are delineated by tags, written using angle brackets. Some introduce content into the page directly, others provide information about document text and may include other tags as sub-elements. Obviously, browsers do not display them, since they are used to interpret the content of the page.
 
-## Specifications
+## HTML Specifications
 Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
 
 - [*HTML Basics*](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
@@ -36,6 +36,7 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Quirks Mode Living Standard*](https://quirks.spec.whatwg.org/)
 - [*Storage Living Standard*](https://storage.spec.whatwg.org/)
 - [*Localizations and character encodings*](https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings)
+- [*HTML Living Standard Specification - Table of Contents*](https://html.spec.whatwg.org/multipage/)
 
 ## HTML References
 
@@ -49,6 +50,7 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Kinds of HTML content*](https://developer.mozilla.org/en-US/docs/Web/HTML/Kinds_of_HTML_content)
 - [*Quirks mode and standards mode*](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
 - [*Applying color to HTML elements using CSS*](https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color)
+- [*HTML Living Standard Specification - References*](https://html.spec.whatwg.org/multipage/references.html)
 
 
 ## HTML Guides 
@@ -87,7 +89,7 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Guide: HTML <input> types reference*](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 - [*Guide: HTML Questions*](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
 
-## Complementary
+## HTML Complementary
 Contains links to all updated and actual living specifications of HTML Web Technology
 
 - [*The History of HTML*](https://www.webdesignmuseum.org/web-design-history)
@@ -140,7 +142,7 @@ The latest evolution of the Cascading Style Sheets language. Cascading Style She
 - [*Guide: CSS on MDN*](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [*Guide: CSS Questions*](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto)
  
-## Specifications
+## CSS Specifications
 Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a stylesheet language used to define the presentation of a document written in HTML.
 
 - [*Cascading Style Sheets Homepage W3C*](https://www.w3.org/Style/CSS/)
@@ -162,6 +164,7 @@ Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a sty
 - [*CSS3 - Introduction, Tutorials and Reference (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [*HTML & CSS*](https://www.w3.org/standards/webdesign/htmlcss)
 - [*Guide: CSS Learning Area (MDN)*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [*CSS Books Living Idea Specification*](https://books.idea.whatwg.org/)
 
 # Web Scripting
 
