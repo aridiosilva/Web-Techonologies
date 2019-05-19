@@ -145,7 +145,34 @@ WebAssembly, Accessibility, Web Performance, Security, Progressive Web Apps.
 ## Progressive Web Applications (PWA)
 Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps.
 
--[*Progressive web apps*](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+- [*Progressive web apps*](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+- [*PWA Advantages*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Advantages)
+- [*Introduction to Progressive Web Applications*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
+- [*Progressive Web App Structure*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/App_structure)
+- [*Making PWAs work offline with Service workers*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
+- [*How to make PWAs installable*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Installable_PWAs)
+- [*How to make PWAs re-engageable using Notifications and Push*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Re-engageable_Notifications_Push)
+- [*Progressive loading*](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Loading)
+- [*Using Service Workers*](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+- [*ServiceWorkerWare (Express-like microframework for easy Service Worker development)*](https://github.com/fxos-components/serviceworkerware)
+- [*The Service Worker Cookbook*](https://serviceworke.rs/)
+- [*Instant Loading Web Apps with An Application Shell Architecture *](https://developers.google.com/web/updates/2015/11/app-shell)
+- [*Using the Push API*](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API)
+- [*Using the Notifications API*](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API)
+- [*The Building Blocks of Responsive Design*](https://developer.mozilla.org/en-US/docs/Web/Apps/Modern/Responsive/responsive_design_building_blocks)
+- [*Mobile First*](https://developer.mozilla.org/en-US/docs/Web/Apps/Modern/Responsive/Mobile_first)
+- [*Add to Home Screen Guide (How can take advantage of Add to home screen (A2HS)*](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive/Add_to_home_screen) 
+- [*Workbox (piritual successor to sw-precache with more advanced caching strategies and easy precaching)*](https://github.com/GoogleChrome/workbox)
+- [*UpUp (script that makes sure your site is always there for your users)*](https://www.talater.com/upup/)
+- [*sw-precache ( a node module to generate service worker code that will precache specific resources)*](https://github.com/GoogleChrome/sw-precache)
+- [*oghliner (tool for deploying Offline Web Apps to GitHub Pages)*](https://github.com/mozilla/oghliner)
+
+## Web Storage
+
+- [*Client-side storage (how and when to use web storage, IndexedDB, and service workers)*](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+- [*Using IndexedDB *](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
+- [*Using the Web Storage API *](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+- [*localForage (JavaScript library for making client-side data storage really simple)*](https://localforage.github.io/localForage/)
 
 ## WebAssembly
 WebAssembly is a new type of code that can be run in modern web browsers — it is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++ and Rust with a compilation target so that they can run on the web.
@@ -163,12 +190,4 @@ WebAssembly is a new type of code that can be run in modern web browsers — it 
 - [*WebAssembly API Reference*](https://developer.mozilla.org/en-US/docs/WebAssembly#API_reference)
 - [*WebAssembly Examples*](https://developer.mozilla.org/en-US/docs/WebAssembly#Examples)
 - [*Browser Compatibility*](https://developer.mozilla.org/en-US/docs/WebAssembly#Browser_compatibility)
-
-
-
-
-
-
-
-
 
