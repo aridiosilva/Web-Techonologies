@@ -52,4 +52,15 @@ Link to the Web API and DOM Standards
 
 - [*Web API Specifications (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/API)
 
+# Graphics on the Web
+2D and 3D Graphics Specifications
+
+## Specifications
+Link to the Web Technologies specifications for 2D and 3D Graphics 
+
+- [*Graphics 2D and 3D (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+
+
+
+
 
