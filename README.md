@@ -34,6 +34,12 @@ Contains links to all updated and actual living specifications of HTML Web Techn
 - [*HTML History Timeline*](https://www.w3.org/html/wg/wiki/History)
 - [*All normative references that appears in the HTML5 Specification*](https://html.spec.whatwg.org/multipage/references.html#references)
 
+## HTML5 Cross Browser Polyfills
+Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 functionality in browsers that don't natively support them.
+
+- [*Modernizr JavaScript Library*](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+
+
 # CSS3 Web Standard
 The latest evolution of the Cascading Style Sheets language.
 
