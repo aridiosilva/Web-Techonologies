@@ -57,6 +57,7 @@ Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 fun
 The latest evolution of the Cascading Style Sheets language.
 
  - [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+ - [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
  
 ## Specifications
 Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a stylesheet language used to define the presentation of a document written in HTML.
@@ -68,13 +69,38 @@ Link to the Cascading Style Sheet Web Technology Living Standards - CSS is a sty
 - [*HTML & CSS*](https://www.w3.org/standards/webdesign/htmlcss)
 - [*CSS Learning Area (MDN)*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
+# Web Scripting
 
-# Web APIs and DOM (Document Object Model)
-The latest evolution of the Document Object Model and Web APIs
+## Document Object Model (DOM)
+The web includes a wide array of APIs that can be used from JavaScript to build increasingly more powerful and 
 
-## Specifications
-Link to the Web API and DOM Standards 
+- [*Document Object Model (DOM)*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [*Events and the DOM*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)
+- [*Examples of web and XML development using the DOM*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+- [*How to create a DOM tree*](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/How_to_create_a_DOM_tree)
+- [*Introduction to the DOM*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [*Locating DOM elements using selectors*](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
+- [*Traversing an HTML table with JavaScript and DOM Interfaces*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces)
+- [*Using the W3C DOM Level 1 Core*](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)
+- [*Whitespace in the DOM*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace_in_the_DOM)
+- [*DOM interfaces*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#DOM_interfaces)
+- [*HTML DOM*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#HTML_DOM)
+- [*DOM Living Standard*](https://dom.spec.whatwg.org/)
+- [*DOM Level 4 - OBSOLETE*](https://www.w3.org/TR/dom/)
+- [*DOM Level 3 Core - OBSOLETE*](https://www.w3.org/TR/DOM-Level-3-Core/)
+- [*DOM Level 2 Core - OBSOLETE*](https://www.w3.org/TR/DOM-Level-2-Core/)
+- [*DOM Level 1 Specification- OBSOLETE*](https://www.w3.org/TR/REC-DOM-Level-1/)
+- [*DOM Examples*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+- [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
 
+## Web APIs
+The web includes a wide array of APIs that can be used from JavaScript to build increasingly more powerful and capable applications, running either on the web, locally, or through technology such as Node.js, on a server.
+
+- [*Web API interface reference*](https://developer.mozilla.org/en-US/docs/Web/API)
+- [*Web API event reference*](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [*Guide to web APIs*](https://developer.mozilla.org/en-US/docs/Web/Guide/API)
+- [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+- [*DOM (Document Object Model) Living Standard*](https://dom.spec.whatwg.org/)
 - [*Web API Specifications (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/API)
 
 # Graphics on the Web
@@ -165,14 +191,6 @@ Helpful tools and resources for understanding and debugging HTTP
 
 # Other Topics 
 WebAssembly, Accessibility, Web Performance, Security, Progressive Web Apps, Web APIs, Web Storage.
-
-## Web APIs
-The web includes a wide array of APIs that can be used from JavaScript to build increasingly more powerful and capable applications, running either on the web, locally, or through technology such as Node.js, on a server.
-
-- [*Web API interface reference*](https://developer.mozilla.org/en-US/docs/Web/API)
-- [*Web API event reference*](https://developer.mozilla.org/en-US/docs/Web/Events)
-- [*Guide to web APIs*](https://developer.mozilla.org/en-US/docs/Web/Guide/API)
-- [*Document Object Model (DOM)*](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ## Progressive Web Applications (PWA)
 Progressive web apps use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps.
