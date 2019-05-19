@@ -34,7 +34,7 @@ Contains links to all updated and actual living specifications of HTML Web Techn
 - [*HTML History Timeline*](https://www.w3.org/html/wg/wiki/History)
 - [*All normative references that appears in the HTML5 Specification*](https://html.spec.whatwg.org/multipage/references.html#references)
 
-# CCS3 Web Standard
+# CSS3 Web Standard
 The latest evolution of the Cascading Style Sheets language.
 
 ## Specifications
