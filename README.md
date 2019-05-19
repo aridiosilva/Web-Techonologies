@@ -1,6 +1,9 @@
 # Web Techonologies
+The open nature of the World Wide Web presents incredible opportunities to create websites or online applications. To take full advantage of the web's capabilities, we need to know how to use them.
 
-- [*Glossary*] (https://developer.mozilla.org/en-US/docs/Glossary)
+## Introduction
+
+- [*Glossary*](https://developer.mozilla.org/en-US/docs/Glossary)
 - [*Learning Web Development*](https://developer.mozilla.org/en-US/docs/Learn)
 - [*Web Developer Reference*](https://developer.mozilla.org/en-US/docs/Web/Reference)
 
