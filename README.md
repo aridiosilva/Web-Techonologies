@@ -11,7 +11,7 @@ The open nature of the World Wide Web presents incredible opportunities to creat
 - [*Design and accessibility Questions*](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Design_and_accessibility)
 
 # HTML5 Web Standard
-The actual Hypertext Markup Language Standard - HTML is the core language of nearly all web content. 
+The actual Hypertext Markup Language Standard - HTML is the core language of nearly all web content. HyperText Markup Language is used to define and describe semantically the content (markup) of a web page in a well-structured format. HTML provides a means to create structured documents made up of blocks called HTML elements that are delineated by tags, written using angle brackets. Some introduce content into the page directly, others provide information about document text and may include other tags as sub-elements. Obviously, browsers do not display them, since they are used to interpret the content of the page.
 
 ## Specifications
 Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
@@ -97,8 +97,15 @@ Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 fun
 - [*Modernizr JavaScript Library*](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 
 # CSS3 Web Standard
-The latest evolution of the Cascading Style Sheets language.
+The latest evolution of the Cascading Style Sheets language. Cascading Style Sheets are used to describe the appearance of web content.
 
+- [*Introduction to CSS*](https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS)
+- [*Getting started with CSS*](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+- [*Learn CSS*]()
+- [*CSS3*](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+- [*CSS Developer guide*](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+- [*Common CSS questions*](https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions)
+- [*CSS Reference*](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
 - [*Guide: Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements)
