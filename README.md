@@ -9,6 +9,7 @@ The open nature of the World Wide Web presents incredible opportunities to creat
 - [*How the Web Works*](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#How_the_Web_works)
 - [*Tools and Setup Questions*](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Tools_and_setup)
 - [*Design and accessibility Questions*](https://developer.mozilla.org/en-US/docs/Learn/Common_questions#Design_and_accessibility)
+- [*Publishing Your Web Site*](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website)
 
 # HTML5 Web Standard
 The actual Hypertext Markup Language Standard - HTML is the core language of nearly all web content. HyperText Markup Language is used to define and describe semantically the content (markup) of a web page in a well-structured format. HTML provides a means to create structured documents made up of blocks called HTML elements that are delineated by tags, written using angle brackets. Some introduce content into the page directly, others provide information about document text and may include other tags as sub-elements. Obviously, browsers do not display them, since they are used to interpret the content of the page.
@@ -16,6 +17,7 @@ The actual Hypertext Markup Language Standard - HTML is the core language of nea
 ## Specifications
 Link to the Web Technology Living Standards maintained at the Web Hypertext Application Technology Working Group (WHATWG)
 
+- [*HTML Basics*](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [*HTML - Features Specification - Developer's Edition*](https://html.spec.whatwg.org/dev/introduction.html#introduction)
 - [*HTML - Full Specification*](https://html.spec.whatwg.org/multipage/)
 - [*HTML Introduction, Tutorials and Reference (MDN Web Docs)*](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -35,7 +37,21 @@ Link to the Web Technology Living Standards maintained at the Web Hypertext Appl
 - [*Storage Living Standard*](https://storage.spec.whatwg.org/)
 - [*Localizations and character encodings*](https://developer.mozilla.org/en-US/docs/Localizations_and_character_encodings)
 
-## Guides 
+## HTML References
+
+- [*HTML reference*](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+- [*HTML element reference*](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [*HTML attribute reference*](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+- [*Global attributes*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+- [*Inline elements and block-level elements*](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+- [*Link types*](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types)
+- [*Media formats supported by the HTML audio and video elements*](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats)
+- [*Kinds of HTML content*](https://developer.mozilla.org/en-US/docs/Web/HTML/Kinds_of_HTML_content)
+- [*Quirks mode and standards mode*](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
+- [*Applying color to HTML elements using CSS*](https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color)
+
+
+## HTML Guides 
 
 - [*Events Developer Guide (MDN)*](https://developer.mozilla.org/en-US/docs/Web/Guide/Events)
 - [*Guide: Html Learning Area (MDN)*](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -99,6 +115,7 @@ Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 fun
 # CSS3 Web Standard
 The latest evolution of the Cascading Style Sheets language. Cascading Style Sheets are used to describe the appearance of web content.
 
+- [*CSS Basics*](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics)
 - [*Introduction to CSS*](https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS)
 - [*Getting started with CSS*](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [*Learn CSS*]()
