@@ -117,23 +117,31 @@ Collecting all the shims, fallbacks, and polyfills in order to implant HTML5 fun
 # CSS3 Web Standard
 The latest evolution of the Cascading Style Sheets language. Cascading Style Sheets are used to describe the appearance of web content.
 
+## CSS3 Introduction
+
 - [*CSS Basics*](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics)
 - [*Introduction to CSS*](https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS)
 - [*Getting started with CSS*](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
-- [*Learn CSS*]()
 - [*CSS3*](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [*CSS Developer guide*](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
 - [*Common CSS questions*](https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions)
 - [*CSS Reference*](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [*CSS learning Area*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+
+## CSS3 Tutorial
+
+- [*Learn CSS*]()
+- [*Tutorial - Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Determining_the_dimensions_of_elements)
+- [*Tutorial - Managing screen orientation*](https://developer.mozilla.org/en-US/docs/WebAPI/Managing_screen_orientation)
+
+## CSS3 Guides
+
 - [*Guide: Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements)
 - [*Guide: Managing screen orientation*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Managing_screen_orientation)
 - [*Guide: Using dynamic styling information*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
 - [*Guide: CSS Interfaces*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
 - [*Guide: CSS Events*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
-- [*Tutorial - Determining the dimensions of elements*](https://developer.mozilla.org/en-US/docs/Determining_the_dimensions_of_elements)
-- [*Tutorial - Managing screen orientation*](https://developer.mozilla.org/en-US/docs/WebAPI/Managing_screen_orientation)
 - [*Guide: Learn to style HTML using CSS*](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [*Guide: Introduction to CSS*](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - [*Guide: Styling text*](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
@@ -215,7 +223,7 @@ The web includes a wide array of APIs that can be used from JavaScript to build 
 - [*Web API event reference*](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [*Guide to web APIs*](https://developer.mozilla.org/en-US/docs/Web/Guide/API)
 - [*CSS Object Model (CSSOM)*](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
-- [*DOM (Document Object Model) Living Standard*](https://dom.spec.whatwg.org/)
+- [*DOM (Document Object Model*] Living Standard*](https://dom.spec.whatwg.org/)
 - [*Web API Specifications (MDN Web Docs*](https://developer.mozilla.org/en-US/docs/Web/API)
 
 # Graphics on the Web
